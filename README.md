@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Siva Surada 👋
 
-<!--
-**sivasurada/sivasurada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Java Full Stack Developer Fresher
+- Learning Spring Boot and REST APIs
+- Interested in Backend Development
+- Looking for Software Developer Opportunities
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Student Management System
+Developed using Java, Spring Boot, MySQL and REST APIs.
+
+### Online Food Ordering System
+Developed using Java, Spring Boot, MySQL and REST APIs.
+
+## Contact
+Email: sivasurada14@gmail.com
+
+⭐ Thank you for visiting my profile.
